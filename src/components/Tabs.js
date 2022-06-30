@@ -14,6 +14,7 @@ import MenuItem from '@mui/material/MenuItem';
 import AdbIcon from '@mui/icons-material/Adb';
 import { Link } from 'react-router-dom';
 
+
 const pages = ['Home', 'Programs', 'About', 'FAQ', 'Registration'];
 
 const NavTab = () => {
@@ -40,6 +41,7 @@ const NavTab = () => {
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <AdbIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }} />
+          <Link to="/Home">
           <Typography
             variant="h6"
             noWrap
@@ -57,7 +59,7 @@ const NavTab = () => {
           >
             LOGO
           </Typography>
-
+          </Link>
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
             <IconButton
               size="large"
@@ -97,6 +99,7 @@ const NavTab = () => {
             </Menu>
           </Box>
           <AdbIcon sx={{ display: { xs: 'flex', md: 'none' }, mr: 1 }} />
+          <Link to="/Home">
           <Typography
             variant="h5"
             noWrap
@@ -115,6 +118,7 @@ const NavTab = () => {
           >
             LOGO
           </Typography>
+          </Link>
           <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
             {pages.map((page) => (
               <Button
