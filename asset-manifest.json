@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SEG-3103-Project-2-Step-3/static/css/main.8d528eaf.css",
-    "main.js": "/SEG-3103-Project-2-Step-3/static/js/main.ce5c49b3.js",
+    "main.js": "/SEG-3103-Project-2-Step-3/static/js/main.9051d930.js",
     "static/js/787.d1b3196a.chunk.js": "/SEG-3103-Project-2-Step-3/static/js/787.d1b3196a.chunk.js",
     "static/media/CoachImg.jpg": "/SEG-3103-Project-2-Step-3/static/media/CoachImg.c24358a2c48ea483bbcb.jpg",
     "static/media/ProgramsImg.jpg": "/SEG-3103-Project-2-Step-3/static/media/ProgramsImg.335f1571e8f3b69cb411.jpg",
@@ -12,11 +12,11 @@
     "static/media/UserImage.jpg": "/SEG-3103-Project-2-Step-3/static/media/UserImage.88158f1010a90c45e9cb.jpg",
     "index.html": "/SEG-3103-Project-2-Step-3/index.html",
     "main.8d528eaf.css.map": "/SEG-3103-Project-2-Step-3/static/css/main.8d528eaf.css.map",
-    "main.ce5c49b3.js.map": "/SEG-3103-Project-2-Step-3/static/js/main.ce5c49b3.js.map",
+    "main.9051d930.js.map": "/SEG-3103-Project-2-Step-3/static/js/main.9051d930.js.map",
     "787.d1b3196a.chunk.js.map": "/SEG-3103-Project-2-Step-3/static/js/787.d1b3196a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d528eaf.css",
-    "static/js/main.ce5c49b3.js"
+    "static/js/main.9051d930.js"
   ]
 }
